@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"c:/Users/Martin/Desktop/Proyectos/Metodos Numericos PY\" && mkdir -p \"metodos_numericos/01_raices\" && python --version)",
+      "Bash(python \"metodos_numericos/01_raices/biseccion.py\")",
+      "Bash(python -c ' *)",
+      "Bash(python \"metodos_numericos/01_raices/falsa_posicion.py\")",
+      "Bash(python \"metodos_numericos/01_raices/punto_fijo.py\")",
+      "Bash(python \"metodos_numericos/01_raices/newton_raphson.py\")"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Martin\\Desktop\\Proyectos\\Metodos Numericos PY\\metodos_numericos"
+    ]
+  }
+}
